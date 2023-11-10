@@ -46,11 +46,11 @@ var sum = z + y - x;
 console.log(sum);
 
 
-var sum = z + y / x;
+var sum = y / x;
 console.log(sum);
 
 
-var sum = z + y*x;
+var sum = y*x;
 console.log(sum);
 
 
